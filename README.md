@@ -253,7 +253,10 @@ We calculated the **Customer Lifetime Value (CLV)** based on transactional behav
 
 
 
+---
+Author
 
+Stanley Eric
 
 
 
